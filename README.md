@@ -10,4 +10,4 @@ leckék kódgyűjteményében.
 
 [Mizsák Dániel](https://www.linkedin.com/in/daniel-mizsak)
 
-[Pecsenye Samu](#)
+[Pecsenye Samu](https://www.linkedin.com/in/samu-pecsenye)
