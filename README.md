@@ -9,4 +9,5 @@ leckék kódgyűjteményében.
 
 
 [Mizsák Dániel](https://www.linkedin.com/in/daniel-mizsak)
+
 [Pecsenye Samu](#)
