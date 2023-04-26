@@ -1,0 +1,20 @@
+- Hozz létre egy új fájlt "menu" néven, amelyben a megoldásod során használt kódot mented el.
+- Olvasd be és tárold el az "etelek.txt" tartalmát, és a file tartalma alapján olvasd be az összes étel receptjét.
+- Írd ki a kijelzőre a fájlban található ételeket kategóriák szerint darabszámmal, a mintának megfelelő módon.
+Minta:
+Leves (3):
+paradicsomleves - tojasleves - krumplileves
+
+Foetel (3):
+krumplisteszta - makaroni - rantotthus
+
+Desszert (3):
+palacsinta - muffin - kremes
+
+- Listázd ki azokat a recepteket, amelyek elkészítéséhez szükség van lisztre.
+- Kérd a felhasználótól, hogy melyik szereti legkevésbé, és a maradékból válassz egyet véletlenszerűen.
+Kérj be a felhasznlálótól egy főételt és írd ki az receptben található mértékegységeket.
+Írd ki azokat a hozzávalókat amik kellenek a leves és főétel elkészítéséhez is.
+Kérj be a felhasználótól egy alapanyagot, és válassz egy desszertet, amiben az nem található meg.
+Írj egy függvényt, ami a mertekegysegek.txt alapján átváltja a bementi mérőszámot és mértékegységet a kívánt mértékegységre.
+Az előző függvény segítségével írd ki a teljes fenti menühöz (leves, főétel, desszert) szükséges hozzávalókat és azok mennyiségét.
